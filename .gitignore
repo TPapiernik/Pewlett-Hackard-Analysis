@@ -33,6 +33,7 @@ MANIFEST
 *.un~
 *.md~
 *.py~
+*.sql~
 *.swp
 .gitignore~
 ..gitignore.un~
